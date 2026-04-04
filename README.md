@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Damian and I'm a I.T. Student from South Africa 🇿🇦</h2>
+<h2 align="left">Hi 👋! My name is Damian and I'm an I.T. Student from South Africa 🇿🇦</h2>
 
 ###
 
